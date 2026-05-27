@@ -1,8 +1,8 @@
 class Palimpsest < Formula
   desc "Persistent memory layer for Claude Code & GitHub Copilot, built on Obsidian"
   homepage "https://github.com/Sokrix/palimpsest"
-  url "https://github.com/Sokrix/palimpsest/archive/refs/tags/v1.0.3.tar.gz"
-  sha256 "74a23e8832f37da3bf9e34d8d7909457b35054b751fdedc396279b4f32af06fc"
+  url "https://github.com/Sokrix/palimpsest/archive/refs/tags/v1.0.4.tar.gz"
+  sha256 "c3d18256b3921f047cbac24b6f511bde5a2344171283b82529ce08095693896a"
   license "Apache-2.0"
 
   depends_on "python@3"
